@@ -1,4 +1,0 @@
-luca;belo;ciao;;;0
-luca2;ciao;daniele;;;1
-abid;hossain;samueleù;;;0
-samuele;samuele;niccolò;cristian;antonella;0
