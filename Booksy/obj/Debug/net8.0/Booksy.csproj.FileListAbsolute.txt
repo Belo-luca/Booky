@@ -1,0 +1,14 @@
+C:\Users\Belometti.22036\source\repos\Booksy\obj\Debug\net8.0\Booksy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belometti.22036\source\repos\Booksy\obj\Debug\net8.0\Booksy.AssemblyInfoInputs.cache
+C:\Users\Belometti.22036\source\repos\Booksy\obj\Debug\net8.0\Booksy.AssemblyInfo.cs
+C:\Users\Belometti.22036\source\repos\Booksy\obj\Debug\net8.0\Booksy.csproj.CoreCompileInputs.cache
+C:\Users\Belometti.22036\source\repos\Booksy\bin\Debug\net8.0\Booksy.exe
+C:\Users\Belometti.22036\source\repos\Booksy\bin\Debug\net8.0\Booksy.deps.json
+C:\Users\Belometti.22036\source\repos\Booksy\bin\Debug\net8.0\Booksy.runtimeconfig.json
+C:\Users\Belometti.22036\source\repos\Booksy\bin\Debug\net8.0\Booksy.dll
+C:\Users\Belometti.22036\source\repos\Booksy\bin\Debug\net8.0\Booksy.pdb
+C:\Users\Belometti.22036\source\repos\Booksy\obj\Debug\net8.0\Booksy.dll
+C:\Users\Belometti.22036\source\repos\Booksy\obj\Debug\net8.0\refint\Booksy.dll
+C:\Users\Belometti.22036\source\repos\Booksy\obj\Debug\net8.0\Booksy.pdb
+C:\Users\Belometti.22036\source\repos\Booksy\obj\Debug\net8.0\Booksy.genruntimeconfig.cache
+C:\Users\Belometti.22036\source\repos\Booksy\obj\Debug\net8.0\ref\Booksy.dll
